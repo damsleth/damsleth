@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi! 👋 I'm Carl Joakim ("Kim")
 
-<!--
-**damsleth/damsleth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://avatars2.githubusercontent.com/u/11045723?s=24" /> Senior dev at [Puzzlepart](https://github.com/puzzlepart)  
+🏠&nbsp; in 🇳🇴  &nbsp;with 👨‍👩‍👧‍👦 😼 😺  
+🏢&nbsp;  **==** 🏠&nbsp;  due to 🦠  
+  
+🔧 Work with  
+- M365, SharePoint and Azure
+- [PnP](https://github.com/pnp/pnp-powershell)   
+- [VSCode](https://github.com/microsoft/vscode)
+- [TypeScript](https://github.com/microsoft/typescript)
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/)
+- [PoSh](https://github.com/powershell/powershell)
+- [macOS](https://github.com/iCHAIT/awesome-macOS)
+  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [![damsleth's github stats](https://github-readme-stats.vercel.app/api?username=damsleth&count_private=true&theme=solarized-light&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
