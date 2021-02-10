@@ -1,11 +1,8 @@
-### Hi! 👋 I'm Carl Joakim ("Kim")
+#### Hi! 👋   I'm Carl Joakim ("Kim"), software engineer at <img src="https://avatars2.githubusercontent.com/u/11045723?s=24" /> [Puzzlepart](https://github.com/puzzlepart)  
+I work with Microsoft365, Azure, NodeJS and Typescript, all on macOS. I live and work from home ( \*cough\* 🦠  ) just outside Oslo, Norway with my wife, kids and cats. When I'm not working, I go bouldering, alpine skiing, and boating.
 
-- <img src="https://avatars2.githubusercontent.com/u/11045723?s=24" /> Senior dev at [Puzzlepart](https://github.com/puzzlepart)  
-- 🏠&nbsp; in 🇳🇴  &nbsp;with 👨‍👩‍👧‍👦 😼 😺  
-- 🏢&nbsp;  **==** 🏠&nbsp;  due to 🦠  
-  
-- 🔧 Work with  
-  - M365, SharePoint and Azure
+
+#### Currently doing 🔧   
   - [PnP](https://github.com/pnp/pnp-powershell)   
   - [VSCode](https://github.com/microsoft/vscode)
   - [TypeScript](https://github.com/microsoft/typescript)
@@ -13,7 +10,10 @@
   - [PoSh](https://github.com/powershell/powershell)
   - [macOS](https://github.com/iCHAIT/awesome-macOS)
   
+#### Currently reading 📖
+- Jean M. Auel -  The Shelters of Stone
+- Robert Jordan - The Fires of Heaven
 
 <a href="https://github.com/damsleth">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=damsleth&count_private=true&theme=solarized-light&show_icons=true" alt="damsleth's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=damsleth&count_private=true&theme=synthwave&show_icons=true" alt="damsleth's github stats" />
 </a>
