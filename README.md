@@ -12,16 +12,15 @@ I work with Microsoft 365, Azure, NodeJS and Typescript, all on macOS. I live an
   
 #### Reading 📖
 - Jean M. Auel -  The Land of Painted Caves
-- Robert Jordan - The Fires of Heaven
+- Cixin Liu - The Three-Body Problem 
 
 #### Playing 🎮
 - Trailmakers
-- Red Dead Online
-- Minecraft
+- Cyberpunk 2077
+- Caves of Qud
 
 #### Watching 📺
-- Sweet Tooth
-- Love, Death & Robots S02
+- The Umbrella Academy
 
 <a href="https://github.com/damsleth">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=damsleth&count_private=true&theme=synthwave&show_icons=true" alt="damsleth's github stats" />
