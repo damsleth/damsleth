@@ -1,5 +1,6 @@
-#### Hi! 👋   I'm Carl Joakim ("Kim"), software engineer at <img src="https://avatars2.githubusercontent.com/u/11045723?s=24" /> [Puzzlepart](https://github.com/puzzlepart)  
-I work with Microsoft 365, Azure, NodeJS and Typescript, all on macOS. I live and work from home ( \*cough\* 🦠  ) just outside Oslo, Norway with my wife, kids and cats. When I'm not working, I go bouldering, alpine skiing, and boating.
+#### Hi! 👋 
+#### I'm Carl Joakim ("Kim") - web developer at <img src="https://avatars2.githubusercontent.com/u/11045723?s=24" /> [Puzzlepart](https://github.com/puzzlepart)  
+I work with Microsoft 365, Azure, NodeJS and Typescript, all on macOS. I live and work mostly from home just outside Oslo, Norway with my wife, kids and cats. When I'm not working, I go bouldering, alpine skiing, and boating.
 
 
 #### Doing 🔧   
@@ -15,12 +16,13 @@ I work with Microsoft 365, Azure, NodeJS and Typescript, all on macOS. I live an
 - Cixin Liu - The Three-Body Problem 
 
 #### Playing 🎮
-- Trailmakers
-- Cyberpunk 2077
-- Caves of Qud
+- Destiny 2
+- Caves of Qud  
+- ~~Cyberpunk 2077~~
 
 #### Watching 📺
-- The Umbrella Academy
+- Squid Game
+- ~~Umbrella academy~~
 
 <a href="https://github.com/damsleth">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=damsleth&count_private=true&theme=synthwave&show_icons=true" alt="damsleth's github stats" />
