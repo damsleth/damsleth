@@ -17,12 +17,13 @@ I work with Microsoft 365, Azure, NodeJS and Typescript, all on macOS. I live an
 
 #### Playing 🎮
 - Destiny 2
+- Freeways
 - Caves of Qud  
 - ~~Cyberpunk 2077~~
 
 #### Watching 📺
-- Squid Game
-- ~~Umbrella academy~~
+- ~~Kastanjemanden~~
+- ~~Squid Game~~
 
 <a href="https://github.com/damsleth">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=damsleth&count_private=true&theme=synthwave&show_icons=true" alt="damsleth's github stats" />
