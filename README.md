@@ -13,21 +13,21 @@ I work with Microsoft 365, Azure, NodeJS and Typescript, all on macOS. I live an
   
 #### Reading 📖
 - Cixin Liu - The Three-Body Problem
-- Ernest Cline - Ready Player Two
-- ~~Jean M. Auel -  The Land of Painted Caves
-- ~~Robert Jordan - The Fires of Heaven
+- Ernest Cline - Ready Player Two  
+- ~~Jean M. Auel -  The Land of Painted Caves~~  
+- ~~Robert Jordan - The Fires of Heaven~~
 
 #### Playing 🎮
 - Destiny 2 
 - Freeways  
 - Caves of Qud  
-- ~~Cyberpunk 2077
+- ~~Cyberpunk 2077~~
 
 #### Watching 📺
 - Wheel of Time
 - Jordbrukerne
-- ~~Kastanjemanden
-- ~~Squid Game
+- ~~Kastanjemanden~~
+- ~~Squid Game~~
 
 <a href="https://github.com/damsleth">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=damsleth&count_private=true&theme=synthwave&show_icons=true" alt="damsleth's github stats" />
