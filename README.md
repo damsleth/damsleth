@@ -27,6 +27,7 @@ I work with Microsoft 365, Azure, NodeJS and Typescript, all on macOS. I live an
 #### Watching 📺
 - Wheel of Time
 - Jordbrukerne
+- ~~The Lost Symbol~~
 - ~~Kastanjemanden~~
 
 <a href="https://github.com/damsleth">
