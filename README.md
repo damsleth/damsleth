@@ -12,21 +12,19 @@ I work with Microsoft 365, Azure, NodeJS and Typescript, all on macOS. I live an
   - [macOS](https://github.com/iCHAIT/awesome-macOS)
   
 #### Reading 📖
-- Cixin Liu - The Dark Forest
+- Baoshu - The Redemption of time
+- ~~Cixin Liu - Remembrance of Earth's Past~~
 - ~~Ernest Cline - Ready Player Two~~  
 - ~~Jean M. Auel -  The Land of Painted Caves~~  
 - ~~Robert Jordan - The Fires of Heaven~~
 
 #### Playing 🎮
+- Horizon: The Forbidden West
 - Caves of Qud  
 - Freeways  
-- Diablo III
-- Destiny 2 
-- ~~Cyberpunk 2077~~
+
 
 #### Watching 📺
-- Wheel of Time
-- Jordbrukerne
 - ~~The Lost Symbol~~
 - ~~Kastanjemanden~~
 
