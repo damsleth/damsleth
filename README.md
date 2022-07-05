@@ -14,7 +14,6 @@ I work with Microsoft 365, Azure, NodeJS and Typescript, all on macOS. I live an
 #### Reading 📖
 - Baoshu - The Redemption of time
 - ~~Cixin Liu - Remembrance of Earth's Past~~
-- ~~Ernest Cline - Ready Player Two~~  
 - ~~Jean M. Auel -  The Land of Painted Caves~~  
 - ~~Robert Jordan - The Fires of Heaven~~
 
@@ -25,8 +24,10 @@ I work with Microsoft 365, Azure, NodeJS and Typescript, all on macOS. I live an
 
 
 #### Watching 📺
-- ~~The Lost Symbol~~
-- ~~Kastanjemanden~~
+- The Umbrella Academy S03
+- Love, Death & Robots S03
+- ~~The Boys S03~~
+- ~~Severance S01~~
 
 <a href="https://github.com/damsleth">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=damsleth&count_private=true&theme=synthwave&show_icons=true" alt="damsleth's github stats" />
