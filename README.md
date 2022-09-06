@@ -4,7 +4,7 @@ I work with Microsoft 365, Azure, NodeJS and Typescript, all on macOS. I live an
 
 
 #### Doing 🔧   
-  - [PnP](https://github.com/pnp/pnp-powershell)   
+  - [PnP PoSh+SPFx](https://pnp.github.io/)   
   - [VSCode](https://github.com/microsoft/vscode)
   - [TypeScript](https://github.com/microsoft/typescript)
   - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/)
@@ -12,6 +12,7 @@ I work with Microsoft 365, Azure, NodeJS and Typescript, all on macOS. I live an
   - [macOS](https://github.com/iCHAIT/awesome-macOS)
   
 #### Reading 📖
+- Frank Herbert - Dune
 - Baoshu - The Redemption of time
 - ~~Cixin Liu - Remembrance of Earth's Past~~
 - ~~Jean M. Auel -  The Land of Painted Caves~~  
@@ -24,6 +25,7 @@ I work with Microsoft 365, Azure, NodeJS and Typescript, all on macOS. I live an
 
 
 #### Watching 📺
+- Locke & Key S02
 - The Umbrella Academy S03
 - Love, Death & Robots S03
 - ~~The Boys S03~~
