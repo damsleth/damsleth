@@ -25,10 +25,8 @@ I work with Microsoft 365, Azure, NodeJS and Typescript, all on macOS. I live an
 
 
 #### Watching 📺
-- Stranger Things S04
-- Locke & Key S03
-- The Umbrella Academy S03
-- Love, Death & Robots S03
+- House of the Dragon S01
+- ~~Stranger Things S04~~
 - ~~The Boys S03~~
 - ~~Severance S01~~
 
