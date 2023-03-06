@@ -12,21 +12,20 @@ I work with Microsoft 365, Azure, NodeJS and Typescript, all on macOS. I live an
   - [macOS](https://github.com/iCHAIT/awesome-macOS)
   
 #### Reading 📖
-- Frank Herbert - Dune
-- Baoshu - The Redemption of time
+- Frank Herbert - Dune Messiah
 - ~~Cixin Liu - Remembrance of Earth's Past~~
-- ~~Jean M. Auel -  The Land of Painted Caves~~  
 - ~~Robert Jordan - The Fires of Heaven~~
 
 #### Playing 🎮
-- Horizon: The Forbidden West
+- The Last of Us Remastered
+- Kerbal Space Program (1+2)
 - Caves of Qud  
 - Freeways  
 
 
 #### Watching 📺
+- The Last of Us S01
 - House of the Dragon S01
-- ~~Stranger Things S04~~
 - ~~The Boys S03~~
 - ~~Severance S01~~
 
