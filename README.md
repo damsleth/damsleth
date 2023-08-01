@@ -1,7 +1,6 @@
 #### Hi! 👋 
 #### I'm Carl Joakim ("Kim") - web developer at <img src="https://avatars2.githubusercontent.com/u/11045723?s=24" /> [Puzzlepart](https://github.com/puzzlepart)  
-I work with Microsoft 365, Azure, NodeJS and Typescript, all on macOS. I live and work mostly from home just outside Oslo, Norway with my wife, kids and cats. When I'm not working, I go bouldering, alpine skiing, and boating.
-
+I work with SPFx, Azure, Node and Typescript, all on macOS. I live and work mostly from home just outside Oslo with my wife, kids and cats. When I'm not working, I go bouldering, boating and play video games.
 
 #### Doing 🔧   
   - [PnP PoSh+SPFx](https://pnp.github.io/)   
@@ -17,15 +16,12 @@ I work with Microsoft 365, Azure, NodeJS and Typescript, all on macOS. I live an
 - ~~Robert Jordan - The Fires of Heaven~~
 
 #### Playing 🎮
+- Legend of Zelda: Tears of the Kingdom
 - The Last of Us Remastered
 - Kerbal Space Program (1+2)
-- Caves of Qud  
-- Freeways  
-
 
 #### Watching 📺
-- The Last of Us S01
-- House of the Dragon S01
+- ~~House of the Dragon S01~~
 - ~~The Boys S03~~
 - ~~Severance S01~~
 
