@@ -1,24 +1,23 @@
-#### Hi! 👋 
-#### I'm Carl Joakim ("Kim") - web developer at <img src="https://avatars2.githubusercontent.com/u/11045723?s=24" /> [Puzzlepart](https://github.com/puzzlepart)  
-I work with SPFx, Azure, Node and Typescript, all on macOS. I live and work mostly from home just outside Oslo with my wife, kids and cats. When I'm not working, I go bouldering, boating and play video games.
+### Hey 👋 I'm Kim, web developer at Puzzlepart 👉 [<img src="https://avatars2.githubusercontent.com/u/11045723?s=24" />](https://github.com/puzzlepart)  
+I work with SPFx, Azure, Node (+Bun nowadays) and Typescript, all on macOS. I live and work mostly from home outside Oslo with my wife kids and cats. When I'm not working, I go bouldering, boating and play video games.
 
 #### Doing 🔧   
-  - [PnP PoSh+SPFx](https://pnp.github.io/)   
+  - [PnPPoSh+SPFx](https://pnp.github.io/)   
   - [VSCode](https://github.com/microsoft/vscode)
-  - [TypeScript](https://github.com/microsoft/typescript)
-  - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/)
-  - [PoSh](https://github.com/powershell/powershell)
-  - [macOS](https://github.com/iCHAIT/awesome-macOS)
+  - [Azure OpenAI integrations](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
+  - [Bun+ElysiaJS](https://elysiajs.com/)
+  - [HTMX](https://github.com/bigskysoftware/htmx)
   
 #### Reading 📖
-- Frank Herbert - Dune Messiah
-- ~~Cixin Liu - Remembrance of Earth's Past~~
-- ~~Robert Jordan - The Fires of Heaven~~
+- Oliver Lovrenski - Da vi var yngre
+- ~~Frank Herbert - Dune Messiah~~
+- ~~Cixin Liu - Three body trilogy~~
+- ~~Robert Jordan - Wheel of time series~~
 
 #### Playing 🎮
 - Legend of Zelda: Tears of the Kingdom
-- The Last of Us Remastered
 - Kerbal Space Program (1+2)
+- ~~The Last of Us Remastered~~
 
 #### Watching 📺
 - ~~House of the Dragon S01~~
