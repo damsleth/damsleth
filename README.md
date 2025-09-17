@@ -1,12 +1,11 @@
-### Hey 👋 I'm Kim, web dev at [🖍️](https://github.com/puzzlepart) (formerly Puzzlepart)
+### Hey 👋 I'm Kim, web dev at [🖍️](https://github.com/puzzlepart)Crayon Consulting (formerly Puzzlepart)
 
-I work mostly with SPFx, Azure, Node, and Typescript, as well as old-school onprem stuff. I live and work mostly from home outside Oslo with my wife kids and cats. When I'm not working I waste time on selfhosting, microcontrollers, and LoRas, both in the [Radio](https://github.com/HelTecAutomation/Heltec_ESP32) and [LLM](https://huggingface.co/docs/diffusers/training/lora) sense. 
+I work mostly with SPFx, Azure, MERN, as well as some old school on-prem stuff. I live and work mostly from home outside Oslo with my wife kids and cats. When I'm not working I waste time on selfhosting, microcontrollers, and LoRas, both in the [Radio](https://github.com/HelTecAutomation/Heltec_ESP32) and [LLM](https://huggingface.co/docs/diffusers/training/lora) sense. 
 
 #### Doing 🔧   
+  - [Enterprise Vibe Coding](https://www.thewayofcode.com/)
   - [PnPPoSh+SPFx](https://pnp.github.io/)   
   - [VSCode](https://github.com/microsoft/vscode)
-  - [Azure OpenAI integrations](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
-  - [Bun+ElysiaJS](https://elysiajs.com/)
   - [HTMX](https://github.com/bigskysoftware/htmx)
   
 #### Reading 📖
@@ -16,7 +15,7 @@ I work mostly with SPFx, Azure, Node, and Typescript, as well as old-school onpr
 - ~~Cixin Liu - Three body trilogy~~
 
 #### Playing 🎮
--
+- Ghost of Tsushima Legends Mode (while we wait for Ghost of Yōtei!)
 - ~~Hogwarts Legacy~~
 - ~~Legend of Zelda: Tears of the Kingdom~~
 
