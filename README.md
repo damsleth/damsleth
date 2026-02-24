@@ -1,4 +1,4 @@
-### Hey 👋 I'm Kim - I solve problems using computers
+### Hey, I'm Carl Joakim {kim} - I solve problems {with|using} computers
 
 I work mostly in the M365 ecosystem (SPFx, graph, azure etc), as well as some old school on-prem stuff.  
 I'm an Oslo suburb coastal native, living with my wife kids and cats.  
