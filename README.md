@@ -1,9 +1,5 @@
-### Hey, I'm Carl Joakim {kim} - I solve problems {with|using} computers
-
-I work mostly in the M365 ecosystem (SPFx, graph, azure etc), as well as some old school on-prem stuff.  
-I'm an Oslo suburb coastal native, living with my wife kids and cats.  
-When not working I spend my time bouldering, alpine skiing, volunteering with the norwegian red cross SAR corps,  
-writing [silly CLIs](https://www.npmjs.com/package/badevann), [selfhosting](https://damsleth.no), microcontrollers and LoRas (both in the [Radio](https://github.com/HelTecAutomation/Heltec_ESP32) and [LLM](https://huggingface.co/docs/diffusers/training/lora) sense).
+### Hey, I'm Carl Joakim {kim} - I solve problems {with|using} computers  
+Oslo suburb coastal native, solving enterprise problems with SPFx and Graph, then going home to solder ESP32s and write CLIs nobody asked for. AFK: skiing, bouldering, SAR.
 
 #### doing
   - [Enterprise Vibe Coding](https://www.thewayofcode.com/)
