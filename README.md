@@ -1,4 +1,4 @@
-### Hey, I'm Carl Joakim {kim} - I solve problems {with|using} computers  
+### Hey, I'm Carl Joa{kim} - I solve problems {with|using} computers  
 Oslo suburb coastal native, solving enterprise problems with SPFx and Graph, then going home to solder ESP32s and write CLIs nobody asked for. AFK: skiing, bouldering, SAR.
 
 #### doing
